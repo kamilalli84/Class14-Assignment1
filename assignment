@@ -1,0 +1,19 @@
+Advantages of Maven –
+
+The process of project building is simplified and well organized.
+Maven automatically executes the task of downloading Jar files and the other dependencies.
+Maven can easily incorporate new dependencies by formulating the dependency code in the POM file.
+It facilitates easy access to all the essential information.
+It’s extensible and plug-ins can be easily written using scripting languages or Java.
+Disadvantages of Maven –
+
+Installation in the working system is needed.
+We can not implement a dependency using Maven if the Maven code for existing dependency is not found.
+In terms of execution of project , Maven is quite slow,
+
+Advantages of Gradle –
+
+Its highly customizable property. The tool can be modified under various technologies for diverse projects.
+The performance of Gradle is very fast and efficient. It is around 2x in speed to that of Maven.
+Gradle is a tool used for creating plug-ins and is a flexible instrument.
+It provides a wide variety of IDEs for an enhanced user experience.
